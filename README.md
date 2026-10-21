@@ -14,7 +14,7 @@ Memahami penggunaan list Python untuk menyimpan dan mengolah kumpulan nilai nume
 2. latihan/02_indeks_slicing.py: Mempelajari cara mengakses elemen list menggunakan indeks dan slicing.
 3. latihan/03_manipulasi_list.py: Mempelajari cara mengubah, menambahkan, menyisipkan, dan menghapus elemen list.
 4. latihan/04_agregasi_nilai.py: Menghitung total, rata-rata, nilai minimum, dan nilai maksimum dari data numerik.
-5. latihan/05_filter_kelulusan.py: Memilih nilai yang memenuhi batas kelulusan 60 dan menghitung jumlah nilai yang luus.
+5. latihan/05_filter_kelulusan.py: Memilih nilai yang memenuhi batas kelulusan 60 dan menghitung jumlah nilai yang lulus.
 6. latihan/06_fungsi_statistik.py: Membuat fungsi untuk menghitung rata-rata dan menangani list kosong.
 7. praktik/analisis_nilai_mahasiswa.py: Mengolah data nilai mahasiswa untuk menampilkan statistik nilai serta menentukan jumlah mahasiswa yang lulus dan belum lulus.
 
