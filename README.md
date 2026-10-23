@@ -45,3 +45,8 @@ untuk menjalankan yang lainnya, gunakan perintah sesuai dengan nama berkasnya.
 ## Refleksi
 
 Saya memahami bahwa list dapat digunakan untuk menyimpan banyak nilai dalam satu variabel. Salah satu kesalahan yang berhasil saya perbaiki adalah memastikan saat mengumpulkan nilai mahasiswa yang lulus ke dalam list baru, saya belajar menggunakan append() untuk memasukkan nilai yang memenuhi batas kelulusan.
+
+## Referensi  
+
+Materi pertemuan 07 Algoritma dan Pemrograman: List/Array dan Pengolahan Data Numerik Sederhana.
+Python Software Foundation. The Python Tutorial.
